@@ -1,6 +1,9 @@
 package com.stackroute.exercise2;
 
 public class Palindrome {
+
+  // function for finding palindrome
+
   public static Boolean isPalindrome(String input) {
 
     String temp = "";

@@ -1,29 +1,41 @@
 package com.stackroute.exercise2;
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 
 import static org.junit.Assert.*;
 
 public class PalindromeTest {
+    Palindrome palindrome;
+
+    @Before
+    public void setUp() {
+
+        palindrome = new Palindrome();
+    }
+
+    @After
+    public void tearDown() {
+
+        palindrome = null;
+    }
     @Test
     public  void TestgivenPalindromeShouldReturnTrue(){
-        Palindrome palCheck=new Palindrome();
-        boolean result= palCheck.isPalindrome("madam");
-        assertEquals(true,result);
+        boolean result= palindrome.isPalindrome("madam");
+        assertTrue(result);
 
     }
     @Test
     public  void TestgivenNonPalindromeShouldReturnFalse(){
-        Palindrome palCheck=new Palindrome();
-        boolean result= palCheck.isPalindrome("Never");
-        assertEquals(false,result);
+        boolean result= palindrome.isPalindrome("Never");
+        assertFalse(result);
 
     }
     @Test
     public void TestgivenPalindromeShouldReturnTrueValue(){
-        Palindrome palCheck=new Palindrome();
-        boolean result= palCheck.isPalindrome("madam");
-        assertEquals(true,result);
+        boolean result= palindrome.isPalindrome("madam");
+        assertTrue(result);
     }
 }
 

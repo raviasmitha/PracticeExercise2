@@ -1,6 +1,8 @@
 package com.stackroute.exercise2;
 
 public class CheckPower {
+    // function to check power of four
+
     public static boolean isPower4(long input){
         if(input == 0)
             return false;

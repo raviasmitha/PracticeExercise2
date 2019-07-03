@@ -2,6 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df1ab82b-f913-4b08-aee4-d8e3c6d14e7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/datamunjar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataMungerStep1_Boilerplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/CheckChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/ChessBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/ConsecutiveNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/FirstException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/GenerateError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/MatrixSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/StudentGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/StudentMarks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/CheckCharTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/ChessBoardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/ConsecutiveNumbersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/MatrixSumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/MyDateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/StudentMarks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/StudentMarksTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/practiceExercise3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/CheckChar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/ChessBoard.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/ConsecutiveNumbers.java" afterDir="false" />
@@ -18,13 +45,50 @@
       <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/MyDateTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/StudentMarks.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/StudentMarksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/CheckPower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/IsEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/Member_Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practiseExercise2/com/stackroute/exercise2/StudentGrades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/practiseExercise2/com/stackroute/exercise2/CheckPowerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/practiseExercise2/com/stackroute/exercise2/FactorialTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/practiseExercise2/com/stackroute/exercise2/IsEvenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/practiseExercise2/com/stackroute/exercise2/MemberTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/practiseExercise2/com/stackroute/exercise2/PalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/practiseExercise2/com/stackroute/exercise2/StudentGradesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practiseExercise2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/StudentGradesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/MultipleOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/Occurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/TransposeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/MultipleOccurenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/OccurenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/RegularExpressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/ReplaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/TransposeWordsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/IsEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/IsEvenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/MemberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/MemberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/MemberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="437">
+              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,10 +115,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Member.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -62,17 +126,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/StudentGradesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/IsEvenTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,13 +169,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/IsEvenTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -108,18 +225,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Member.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/StudentGradesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/MemberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/IsEvenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/MemberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java" />
       </list>
     </option>
   </component>
@@ -144,7 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,18 +358,29 @@
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practiseExercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="practiseExercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practiceExercise3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -278,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MemberTest">
+  <component name="RunManager" selected="JUnit.PalindromeTest">
     <configuration name="CheckPowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practiseExercise2" />
       <extension name="coverage">
@@ -305,6 +432,22 @@
       <option name="PACKAGE_NAME" value="com.stackroute.exercise2" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise2.IsEvenTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsEvenTest.testNegativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiseExercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise2.IsEvenTest" />
+      <option name="METHOD_NAME" value="testNegativeNumber" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -339,28 +482,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practiseExercise2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.exercise2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.exercise2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise2.StudentGradesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeTest" />
         <item itemvalue="JUnit.MemberTest" />
         <item itemvalue="JUnit.IsEvenTest" />
-        <item itemvalue="JUnit.PalindromeTest" />
-        <item itemvalue="JUnit.StudentGradesTest" />
         <item itemvalue="JUnit.CheckPowerTest" />
+        <item itemvalue="JUnit.IsEvenTest.testNegativeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -378,27 +506,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PalindromeTest - 2019.06.28 at 09h 38m 44s.xml">
-      <configuration name="PalindromeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentGradesTest - 2019.06.28 at 09h 38m 53s.xml">
-      <configuration name="StudentGradesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PalindromeTest_givenPalindromeShouldReturnTrueValue - 2019.06.28 at 09h 42m 17s.xml">
-      <configuration name="PalindromeTest.givenPalindromeShouldReturnTrueValue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPowerTest - 2019.06.28 at 09h 43m 54s.xml">
-      <configuration name="CheckPowerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPowerTest - 2019.07.01 at 10h 16m 31s.xml">
-      <configuration name="CheckPowerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentGradesTest - 2019.07.01 at 10h 17m 22s.xml">
-      <configuration name="StudentGradesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PalindromeTest - 2019.07.01 at 10h 21m 20s.xml">
-      <configuration name="PalindromeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IsEvenTest - 2019.07.01 at 10h 28m 53s.xml">
       <configuration name="IsEvenTest" configurationId="JUnit" />
     </history-entry>
@@ -408,12 +515,33 @@
     <history-entry file="MemberTest - 2019.07.01 at 10h 39m 17s.xml">
       <configuration name="MemberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CheckPowerTest_testCheckPowerReturnFalse - 2019.07.03 at 16h 44m 41s.xml">
+      <configuration name="CheckPowerTest.testCheckPowerReturnFalse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckPowerTest - 2019.07.03 at 16h 48m 29s.xml">
+      <configuration name="CheckPowerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckPowerTest - 2019.07.03 at 16h 48m 43s.xml">
+      <configuration name="CheckPowerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FactorialTest - 2019.07.03 at 16h 50m 40s.xml">
+      <configuration name="FactorialTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsEvenTest_testCharecter - 2019.07.03 at 16h 55m 09s.xml">
+      <configuration name="IsEvenTest.testCharecter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsEvenTest_testNegativeNumber - 2019.07.03 at 16h 55m 37s.xml">
+      <configuration name="IsEvenTest.testNegativeNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest - 2019.07.03 at 17h 00m 24s.xml">
+      <configuration name="PalindromeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26294553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -442,44 +570,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Member.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/StudentGradesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -489,57 +590,86 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/MemberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="437">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/PalindromeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/StudentGradesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="469">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/IsEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/StudentGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/IsEvenTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="564">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/FactorialTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise2/CheckPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise2/CheckPowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
